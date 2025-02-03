@@ -1,5 +1,5 @@
 {
-  "name": "@bot-wa/bot-wa-baileys",
+  "name": "@bot-wa/oshumilde",
   "version": "1.1.5",
   "description": "Creacte a bot for whatsapp with baileys library or bot-whatsapp",
   "main": "lib/baileys.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andresayac/bot-wa-baileys.git"
+    "url": "git+https://github.com/LeoMultSolutions/bot-enquete.git"
   },
   "keywords": [
     "bot",
