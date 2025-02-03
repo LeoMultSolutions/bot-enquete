@@ -8,9 +8,9 @@ Extraia o arquvio e entre na pasto do bot.
 
 Execute o comando 
 
-npm i
-npm install sharp
-npm run example 
+npm i ,
+npm install sharp ,
+npm run example , 
 
 
 Prontinho seu bot está pronto para se conectar. 
